@@ -8,7 +8,7 @@ apt-get update
 apt-get install curl lynx wget
 apt-get install figlet toilet
 apt-get install git
-git clone https://github.com/Bayu12345677/jsogenerator/
+git clone [https://github.com/Bayu12345677/jsogenerator/](https://github.com/tucommenceapousser/jsogenerator?organization=tucommenceapousser&organization=tucommenceapousser)
 cd jsogenerator
 ```
 - `how to run`
